@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Hakkında</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Mustafa Yalçın'ın Blogu</h1>
+    <nav>
+    <a href="index.html">Ana Sayfa</a>
+    <a href="hakkinda.html">Hakkında</a>
+    <a href="dizifilm.html">Dizi-Film</a>
+    <a href="anket.html">Anket</a>
+    <a href="besiktas.html">Beşiktaş <3</a>
+    <a href="iletisim.html">İletişim</a>
+</nav>
+</header>
+
+<div class="container">
+    <h2>Hakkında</h2>
+    <p>Merhaba! Ben Mustafa Yalçın. Hayatımı, ilgi alanlarımı ve deneyimlerimi burada paylaşıyorum.
+            Öncellikle kendimi tanıtarak başlayalım. 19 yaşında bilgisayar mühendisliği öğrencisiyim. Düzce üniversitesinde okuyorum fakat
+            İstanbuda yaşıyorum. Hobilerimin arasında futbol oynamak , basketbol oynamak , kitap okumak , film izlemek ,
+            spor yapmak , yürüyüş yapmak ve bisiklet sürmektir. Gelecekte yazılım tarafında ilerlemek istiyorum. Kısa dönemli planlarım arasında 
+            erasmus yapmak var. Üniversiteden sonra oyun yazılımı tarfından ilerlemeyi düşünüyorum çünkü küçük yaşlardan
+            beri oyunlara karşı bir ilgim var ve bu ilgi sadece oyunu oynamak üzere değil nasıl geliştirildiği ya da nasıl üretildiği
+            konusunda bir ilgi. Şimdilik haytımın özeti bu kadar zamanla buraya yeni güncellemeler gelecek.
+</p>
+</div>
+
+<footer>
+    <p>Tüm hakları saklıdır © 2024 Mustafa Yalçın</p>
+</footer>
+
+</body>
+</html>
