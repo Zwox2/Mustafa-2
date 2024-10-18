@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Dizi-Film</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Mustafa Yalçın'ın Blogu</h1>
+    <nav>
+    <a href="index.html">Ana Sayfa</a>
+    <a href="hakkinda.html">Hakkında</a>
+    <a href="dizifilm.html">Dizi-Film</a>
+    <a href="anket.html">Anket</a>
+    <a href="besiktas.html">Beşiktaş <3</a>
+    <a href="iletisim.html">İletişim</a>
+</nav>
+</header>
+
+<div class="container">
+    <h2>Sevdiğim Dizi ve Filmler</h2>
+    <p>1. Game of Thrones</p>
+    <p>2. Breaking Bad</p>
+    <p>3. Inception</p>
+    <p>4. The Dark Knight</p>
+    <p>5. Stranger Things</p>
+    <p>6. Lost</p>
+    <p>7. The Walking Dead</p>
+    <p>8. Prison Break</p>
+    <p>9. Labirent Series</p>
+    <p>10. Avengers Series</p>
+    <p>11. Spider Man Series</p>
+    <p>12. Lord of The Rings</p>
+    <p>13. Forrest gump</p>
+</div>
+
+<footer>
+    <p>Tüm hakları saklıdır © 2024 Mustafa Yalçın</p>
+</footer>
+
+</body>
+</html>
